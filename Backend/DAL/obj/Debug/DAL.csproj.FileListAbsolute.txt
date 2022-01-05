@@ -82,15 +82,15 @@ J:\atpjaljalajalontore\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.CoreCompileI
 J:\atpjaljalajalontore\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.CopyComplete
 J:\atpjaljalajalontore\ANTSTourism\Backend\DAL\obj\Debug\DAL.dll
 J:\atpjaljalajalontore\ANTSTourism\Backend\DAL\obj\Debug\DAL.pdb
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\bin\Debug\DAL.dll.config
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\bin\Debug\DAL.dll
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\bin\Debug\DAL.pdb
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.dll
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.SqlServer.dll
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.xml
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.SqlServer.xml
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.CopyComplete
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\obj\Debug\DAL.dll
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\DAL\obj\Debug\DAL.pdb
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\bin\Debug\DAL.dll.config
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\bin\Debug\DAL.dll
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\bin\Debug\DAL.pdb
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.dll
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.xml
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\obj\Debug\DAL.dll
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\DAL\obj\Debug\DAL.pdb

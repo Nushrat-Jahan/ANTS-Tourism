@@ -40,9 +40,9 @@ J:\atpjaljalajalontore\ANTSTourism\Backend\BEL\obj\Debug\BEL.csproj.AssemblyRefe
 J:\atpjaljalajalontore\ANTSTourism\Backend\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
 J:\atpjaljalajalontore\ANTSTourism\Backend\BEL\obj\Debug\BEL.dll
 J:\atpjaljalajalontore\ANTSTourism\Backend\BEL\obj\Debug\BEL.pdb
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\BEL\bin\Debug\BEL.dll
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\BEL\bin\Debug\BEL.pdb
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\BEL\obj\Debug\BEL.dll
-F:\Users\user\desktop\ATP 2 Final Project\ANTSTourism\Backend\BEL\obj\Debug\BEL.pdb
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\BEL\bin\Debug\BEL.dll
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\BEL\bin\Debug\BEL.pdb
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\BEL\obj\Debug\BEL.dll
+F:\Users\user\desktop\New folder\ANTSTourism\Backend\BEL\obj\Debug\BEL.pdb
