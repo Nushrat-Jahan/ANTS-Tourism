@@ -14,10 +14,10 @@
 
 ## Users:
 <ul>
- <li>1.	Admin</li>
- <li>2.	Manager</li>
- <li>3.	Service Providers</li>
- <li>4.	Customer</li>
+ <li>	Admin</li>
+ <li>	Manager</li>
+ <li>	Service Providers</li>
+ <li>	Customer</li>
  </ul>
 
 ##  Common Features
@@ -30,60 +30,60 @@
 
 ## Admin
  <ul>
- <li>1.	Add Manager</li>
- <li>2.	Edit, Delete Manager, Buyer, Seller</li>
- <li>3.	See complains</li>
- <li>4.	Upload notices</li>
- <li>5.	Takes action according to complains</li>
- <li>6.	SEO management</li>
-<li>7.	Theme Customization</li>
- <li>8.	Dashboard for monthly income</li>
+ <li>	Add Manager</li>
+ <li>	Edit, Delete Manager, Buyer, Seller</li>
+ <li>	See complains</li>
+ <li>	Upload notices</li>
+ <li>	Takes action according to complains</li>
+ <li>	SEO management</li>
+ <li>	Theme Customization</li>
+ <li>	Dashboard for monthly income</li>
 </ul>
 
 ## Manager
 <ul>
- <li>1.	Verify Service Provider</li>
- <li>2.	Manages service providers</li>
- <li>3.	Manage payments of service provider</li>
- <li>4.	Manage advertisements/promotion</li>
- <li>5.	Manages featured product or new discounted offers</li>
- <li>6.	Blog management</li>
- <li>7.	Checking reliability of service providers</li>
- <li>8.	Approving packages</li>
+ <li>	Verify Service Provider</li>
+ <li>	Manages service providers</li>
+ <li>	Manage payments of service provider</li>
+ <li>	Manage advertisements/promotion</li>
+ <li>	Manages featured product or new discounted offers</li>
+ <li>	Blog management</li>
+ <li>	Checking reliability of service providers</li>
+ <li>	Approving packages</li>
  </ul>
  
 ## Service Providers
 <ul>
- <li>1.	Sign up</li>
- <li>2.	Upload packages</li>
- <li>3.	Provide discount to packages</li>
- <li>4.	Provide discount to customers</li>
- <li>5.	Can add/publish new services</li>
- <li>6.	Can edit service information</li>
- <li>7.	Will have an analytical dashboard to view stats</li>
- <li>8.	Can delete a service</li>
- <li>9. Can create card</li>
- <li>10. Manages payment details</li>
- <li>11. Shows related packages</li>
- <li>12.	Add packages according to customer demand</li>
- <li>13.	SEO management</li>
- <li>14.	Dashboard for sold packages</li>
+ <li>	Sign up</li>
+ <li>	Upload packages</li>
+ <li>	Provide discount to packages</li>
+ <li>	Provide discount to customers</li>
+ <li>	Can add/publish new services</li>
+ <li>	Can edit service information</li>
+ <li>	Will have an analytical dashboard to view stats</li>
+ <li>	Can delete a service</li>
+ <li> Can create card</li>
+ <li> Manages payment details</li>
+ <li> Shows related packages</li>
+ <li>	Add packages according to customer demand</li>
+ <li>	SEO management</li>
+ <li>	Dashboard for sold packages</li>
  </ul>
  
 ## Customer
 <ul>
- <li>1.	Sign up</li>
- <li>2.	Can View and search Packages</li>
- <li>3.	Can view package details</li>
- <li>4.	Can Buy packages</li>
- <li>5.	Can Cancel package order</li>
- <li>6.	Can view and search order history</li>
- <li>7.	Can view order details</li>
- <li>8.	Can view and edit profile</li>
- <li>9.	 Can give feedback</li>
- <li>10.	Can complain</li>
- <li>11.	Can write Blog</li>
- <li>12.	Can view notices</li>
- <li>13.	Can view transactions and transaction details</li>
+ <li>	Sign up</li>
+ <li>	Can View and search Packages</li>
+ <li>	Can view package details</li>
+ <li>	Can Buy packages</li>
+ <li>	Can Cancel package order</li>
+ <li>	Can view and search order history</li>
+ <li>	Can view order details</li>
+ <li>	Can view and edit profile</li>
+ <li>	 Can give feedback</li>
+ <li>	Can complain</li>
+ <li>	Can write Blog</li>
+ <li>	Can view notices</li>
+ <li>	Can view transactions and transaction details</li>
 </ul>
 
