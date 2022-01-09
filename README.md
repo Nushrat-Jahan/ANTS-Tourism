@@ -87,3 +87,41 @@
  <li>	Can view transactions and transaction details</li>
 </ul>
 
+# Frontend
+
+## Home
+<img src="images/home.PNG">
+<img src="images/about.PNG">
+<img src="images/contact.PNG">
+<img src="images/signup.PNG">
+<img src="images/login.PNG">
+
+## Admin
+<img src="images/admin dashboard.PNG">
+<img src="images/admin action.PNG">
+<img src="images/admin audit log.PNG">
+<img src="images/admin create manager.PNG">
+<img src="images/admin create notices.PNG">
+<img src="images/admin create voucher.PNG">
+<img src="images/admin edit complain.PNG">
+<img src="images/admin edit notice.PNG">
+<img src="images/admin edit voucher.PNG">
+<img src="images/admin notices.PNG">
+<img src="images/admin user edit.PNG">
+<img src="images/admin view complain.PNG">
+<img src="images/admin view user.PNG">
+<img src="images/admin view voucher.PNG">
+
+## Customer
+<img src="images/customer dashboard.PNG">
+<img src="images/customer add blog.PNG">
+<img src="images/customer blogs.PNG">
+<img src="images/customer cancel order.PNG">
+<img src="images/customer edit blog.PNG">
+<img src="images/customer notices.PNG">
+<img src="images/customer order details.PNG">
+<img src="images/customer order list.PNG">
+<img src="images/customer order search.PNG">
+<img src="images/customer place order.PNG">
+<img src="images/customer profile.PNG">
+<img src="images/customer profile edited.PNG">
